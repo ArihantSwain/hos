@@ -5,8 +5,7 @@
  *   var Webflow = Webflow || [];
  *   Webflow.push(readyFunction);
  */
-/******/ (function(modules) { // webpackBootstrap
-/******/ 	// The module cache
+/******/ (function(modules) { 
 /******/ 	var installedModules = {};
 /******/
 /******/ 	// The require function
